@@ -1,0 +1,17 @@
+## Interface: 30000
+
+## Title: Ettans Tweaks
+## Notes: Different tweaks.
+## Author: Tekkub Stoutwrithe - Compiled by Ettan
+## Version: 2.3.2.1
+## X-Website: http://code.google.com/p/tekkub-wow/
+## X-Email: tekkub-wow@googlegroups.com
+## X-Credits: Tekkub
+## X-Category: Compilation
+
+junk.lua
+gdFont.lua
+FastDisenchant.xml
+frame.lua
+media.lua
+border.lua

@@ -1,0 +1,15 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+	<Script file="FastDisenchant.lua"/>
+
+	<Frame name="FastDisenchant_Frame">
+		<Scripts>
+			<OnLoad>
+				FastDisenchant_OnLoad();
+			</OnLoad>
+			<OnEvent>
+				FastDisenchant_OnEvent(event);
+			</OnEvent>
+		</Scripts>
+	</Frame>
+</Ui>
