@@ -15,3 +15,4 @@ FastDisenchant.xml
 frame.lua
 media.lua
 border.lua
+eUi.lua
